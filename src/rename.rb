@@ -11,6 +11,5 @@ Find.find("./") do |filename|
         f.write(text)
         
     end
-    return nil
     end
 end
